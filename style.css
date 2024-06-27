@@ -1,0 +1,15 @@
+body{
+    background-color: #282828;
+}
+
+.safeornot{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1px;
+    color: lime;
+}
+
+h1{
+    text-align: center !important; 
+    text-decoration: none;
+}
